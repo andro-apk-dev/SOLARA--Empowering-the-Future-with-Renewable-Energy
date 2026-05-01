@@ -17,17 +17,15 @@ The platform introduces a token-based economy using **SLR Token**, ensuring seam
 * 💰 **Auction System** – Dynamic pricing through real-time energy bidding
 * 🪙 **SLR Token Integration** – Native token for payments, rewards, and governance
 * 📊 **Real-Time Tracking** – Monitor production, consumption, and transaction history
-* 🤖 **AI-Powered Optimization (Planned)** – Predict energy demand and optimize pricing
-* 🔌 **IoT Integration (Planned)** – Smart meter-based automated energy validation
-* 🌱 **Carbon Credit Support (Planned)** – Trade renewable credits alongside energy
+
 
 ## 🏗️ Tech Stack
 
-* **Frontend:** React / Next.js
+* **Frontend:** React / Node.js
 * **Blockchain:** Ethereum / Polygon
 * **Smart Contracts:** Solidity
 * **Backend:** Node.js (for analytics & IoT integration)
-* **Storage:** IPFS
+* **Storage:** Firebase
 
 ## 🔄 How It Works
 
@@ -48,14 +46,5 @@ To create a decentralized energy ecosystem where individuals have full control o
 * Scalability and gas fee optimization
 * Integration with microgrids and rural energy systems
 
-## 🤝 Contributing
-
-Contributions, ideas, and collaborations are welcome! Feel free to fork the repo and submit pull requests.
-
-## 📜 License
-
-This project is licensed under the MIT License.
-
----
 
 💡 *Building the future of decentralized energy, one block at a time.*
